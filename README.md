@@ -57,8 +57,7 @@ jupyter notebook notebooks/google_form_data_cleaning.ipynb
 - Output: `data_cleaned/df_prescreen_cleaned.csv` (final consolidated dataset)
 
 ## Author
-Developed by [Weverson Barbieri de Oliveira](https://github.com/weversonbarbieri)  
-E-mail: weverson.b@mintt.com
+Developed by [Weverson Barbieri de Oliveira](https://github.com/weversonbarbieri)
 
 ## License
 MIT

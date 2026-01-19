@@ -3,3 +3,4 @@ missingno
 openpyxl
 jupyter
 pykernel
+nhtsa-vin-decoder
